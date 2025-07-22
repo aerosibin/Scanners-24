@@ -1,7 +1,7 @@
 # Scanners-24
 Smart India Hackathon - 2024
 
-Demo Video
+# Demo Video
 
 https://github.com/user-attachments/assets/266cb556-c4e4-4729-ae67-1e4aae8536db
 # Social Media Feed Parsing Tool 🌐
@@ -147,7 +147,3 @@ Before running the application, ensure you have the following installed:
 Contributions are welcome! Please feel free to submit issues, fork the repository, and send pull requests.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. (If you have a `LICENSE` file in your repository, you might add: "See the `LICENSE` file for details.")
