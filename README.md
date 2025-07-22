@@ -141,9 +141,3 @@ Before running the application, ensure you have the following installed:
 * **User Account Management**: Potentially add features to manage multiple social media accounts.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues, fork the repository, and send pull requests.
-
----
